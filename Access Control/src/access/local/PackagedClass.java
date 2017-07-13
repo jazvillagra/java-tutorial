@@ -1,6 +1,6 @@
 package access.local;
 
-class PackagedClass {
+public class PackagedClass {
 
 	public PackagedClass() {
 		// TODO Auto-generated constructor stub
