@@ -1,12 +1,14 @@
 package reusing;
 
 class Soap {
-	public String s;
+	private String s;
 	Soap() {
-		System.out.print("Soap()");
-		s= "Constructed";
+		// TODO Auto-generated constructor stub
+		System.out.println("Soap()");
+		s= "constructed";
 	}
-	public String toString() {
+	public String toString(){
 		return s;
 	}
+
 }
